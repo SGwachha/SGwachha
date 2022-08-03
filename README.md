@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanjeev Gwachha</h1>
 <h3 align="center">A passionate software developer from Nepal</h3>
-<img align="right" alt="coding" width="400" src="https://wallpaperaccess.com/full/2471283.gif" />
+<img align="right" alt="coding" width="500" src="https://wallpaperaccess.com/full/2471283.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sgwachha&label=Profile%20views&color=0e75b6&style=flat" alt="sgwachha" /> </p>
 
