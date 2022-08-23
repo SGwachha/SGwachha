@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on Bookgara<br>🌱 I’m currently learning Reactjs, Nextjs, Vuejs<br>💬 Ask me about Reactjs<br>⚡ How to reach me on gwachhas123@gmail.com
-<img align="right" alt="coding" width="400" src="https://wallpaperaccess.com/full/2471283.gif" />
+<img align="right" alt="coding" width="500" src="https://wallpaperaccess.com/full/2471283.gif" />
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/sanjeev#7996) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sanjeev.gwachha.3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjeev-gwachha-b44501228/) 
