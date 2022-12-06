@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanjeev Gwachha</h1>
-<h3 align="center">just an idiot tryi his way to learn more</h3>
+<h3 align="center">just an idiot trying his way to learn more</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sgwachha&label=Profile%20views&color=0e75b6&style=flat" alt="sgwachha" /> </p>
 <img src="https://camo.githubusercontent.com/bcd35136c1d1b6fbb3a5cea3068ff2ec902e5ef4d5610f8ac88a2081e662b3b8/68747470733a2f2f77616c6c70617065726163636573732e636f6d2f66756c6c2f323437313238332e676966" alt="img" height="200px" align="right"/>
