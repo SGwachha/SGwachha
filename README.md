@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Sanjeev Gwachha</h1>
+<h1 align="center">Hey I'm Sanjeev Gwachha</h1>
 <h3 align="center">Any fool can write code that a computer can understand. Good programmers write code that humans can understand.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sgwachha&label=Profile%20views&color=0e75b6&style=flat" alt="sgwachha" /> </p>
