@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SGwachha?tab=repositories](https://github.com/SGwachha?tab=repositories)
 
-- 💬 Ask me about **reactjs**
+- 💬 Ask me about **Reactjs, Nextjs**
 
 - 📫 How to reach me **gwachhas123@gmail.com**
 
