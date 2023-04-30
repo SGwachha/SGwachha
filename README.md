@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sanjeev Gwachha</h1>
+<h1 align="center">Hey 👋, I'm Sanjeev Gwachha</h1>
 <h3 align="center">an idiot trying his way to learn more</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sgwachha&label=Profile%20views&color=0e75b6&style=flat" alt="sgwachha" /> </p>
